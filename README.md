@@ -36,7 +36,7 @@ Bước 2: Mở IDE và chạy file Game.java trong folder src
 
 Drive: https://drive.google.com/drive/folders/17mkQawYPvRoO5ucsJXzj2T85asQEPp_8?usp=sharing
 
-Onedrive:
+Onedrive: https://husteduvn-my.sharepoint.com/:f:/g/personal/hieu_nt225127_sis_hust_edu_vn/EomAiT8brNhBkbUldDTYJ7EBcWs_YeAN1orjQE22qJjAQQ?e=iOwYEN
 
 ## Note
 
