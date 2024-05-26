@@ -24,13 +24,15 @@ Bước1: Clone về máy của bạn bằng lệnh $git clone https://github.co
 
 Bước2: Chạy file start.bat
 
+Lưu ý: Nếu bạn mở thấy màn hình Windows Defender thì chọn <b>MoreInfo -> Run</b> 
+
 #Cách 2:
 
 Bước 1: Tải Project về máy tính.
 
 Bước 2: Mở IDE và chạy file Game.java trong folder src
 
-Lưu ý: Nếu bạn mở thấy màn hình Windows Defender thì chọn <b>MoreInfo -> Run</b> 
+
 
 ---
 
