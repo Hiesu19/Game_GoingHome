@@ -34,7 +34,7 @@ Bước 2: Mở IDE và chạy file Game.java trong folder src
 
 ## Link Download
 
-Drive:
+Drive: https://drive.google.com/drive/folders/17mkQawYPvRoO5ucsJXzj2T85asQEPp_8?usp=sharing
 
 Onedrive:
 
