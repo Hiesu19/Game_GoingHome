@@ -20,7 +20,7 @@ Vui lòng để lại 1 Star cho nhóm mình vui nhé !!
 
 #Cách 1: Dùng git
 
-Bước1: Clone về máy của bạn bằng lệnh $git clone https://github.com/Hiesu19/GoingHome.git
+Bước1: Clone về máy của bạn bằng lệnh $git clone https://github.com/Hiesu19/Game_GoingHome.git
 
 Bước2: Chạy file start.bat
 
