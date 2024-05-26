@@ -38,8 +38,6 @@ Bước 2: Mở IDE và chạy file Game.java trong folder src
 
 ## Link Download
 
-Drive: https://drive.google.com/drive/folders/1DYgA5PVEM1WdEMmOJUTzojwRq3grJ1mP?usp=drive_link
-
 Onedrive: https://husteduvn-my.sharepoint.com/:f:/g/personal/hieu_nt225127_sis_hust_edu_vn/EuMxzTt1GihOoliskpK7gYcBkQWRNvs2019oKj54z4XpHw?e=4orysn
 
 ## Note
