@@ -44,6 +44,6 @@ Bạn có thể xem tổng số lượt chơi của toàn Server: Hien_thi_so_lu
 
 ---
 
-##Demo
+## Demo.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Ub9r0EWIWmk/0.jpg)](https://www.youtube.com/watch?v=Ub9r0EWIWmk)
