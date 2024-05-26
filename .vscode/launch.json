@@ -1,0 +1,32 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Game",
+            "request": "launch",
+            "mainClass": "Game",
+            "projectName": "OOP_6ff91b79"
+        },
+        {
+            "type": "java",
+            "name": "Game",
+            "request": "launch",
+            "mainClass": "Game",
+            "projectName": "oop_6ff99799"
+        },
+        {
+            "type": "java",
+            "name": "Launch Game",
+            "request": "launch",
+            "mainClass": "Game",
+            "projectName": "YourProjectName",
+            "cwd": "${workspaceFolder}/bin",
+            "console": "integratedTerminal",
+            "args": [],
+            "vmArgs": [
+                "-XX:+ShowCodeDetailsInExceptionMessages"
+            ]
+        }
+    ]
+}
