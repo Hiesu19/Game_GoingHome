@@ -30,6 +30,8 @@ Bước 1: Tải Project về máy tính.
 
 Bước 2: Mở IDE và chạy file Game.java trong folder src
 
+Lưu ý: Nếu bạn mở thấy màn hình Windows Defender thì chọn <b>MoreInfo -> Run</b> 
+
 ---
 
 ## Link Download
